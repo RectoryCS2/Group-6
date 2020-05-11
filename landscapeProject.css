@@ -1,4 +1,19 @@
-.test{
-	color: orange;
-	//this is a test
+.TitleBackground{
+	position:absolute;
+	background-image: linear-gradient(to bottom right, #3bd4ff , #ebfaff);
+	width:100%;
+	height:10%;
+	margin-top: -0.5%;
+	margin-left: -0.5%;
+}
+.Title{
+	color: #51cc35;
+	/*background-color: orange;*/
+	//this is the title
+	position: absolute;
+	margin-left: 35%;
+	/*margin-bottom: 5%;*/
+	margin-top: 1.2%;
+	text-shadow: 2px 2px 4px #000000;
+	font-size: 55px;
 }
