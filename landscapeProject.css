@@ -1,4 +1,29 @@
-.test{
-	color: orange;
-	//this is a test
+/* the code below is for the home page */
+head { color:#E0E0E7;
+}
+
+#hometop{ width:100%;
+}
+
+#homebanner{
+border: 5px #e0e0e7;
+Width:100%; height:75pt;
+background-color:#e0e0e7;
+}
+
+.homeheaderlink{
+  float:left;
+  text-align:center;
+  color:black;
+}
+
+.homeheaderlink:hover{
+  color:#A31621;
+}
+  
+  #homegardenlink{
+   margin-left:34%;
+}
+   #homecontactlink{
+   Margin-left:34%;
 }
