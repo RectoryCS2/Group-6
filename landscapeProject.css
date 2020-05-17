@@ -27,6 +27,10 @@ background-color:#e0e0e7;
    #homecontactlink{
    Margin-left:34%;
 }
+
+
+
+/*// For Gardening page */
 .TitleBackground{
   
 	position:absolute;
@@ -74,9 +78,71 @@ background-color:#e0e0e7;
 .gardeningImage1{
 	position: absolute;
 	margin-top: 5%;
+	margin-left: 10%;
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	padding: 5px;
 	width: 30%;
->>>>>>> 53ca0a0628a7a2c532cf9bbec247034da1e42c6b
 }
+
+.gardeningP1{
+	position: absolute;
+	margin-left: 14%;
+	margin-top: 25%;
+}
+
+.gardeningImage2{
+	position: absolute;
+	margin-top: 5%;
+	margin-left: 60%;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 30%;
+}
+
+.gardeningP2{
+	position: absolute;
+	margin-left: 64%;
+	margin-top: 25%;
+}
+
+
+
+.gardeningImage3{
+	position: absolute;
+	margin-top: 45%;
+	margin-left: 15%;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 20%;
+	height: 1250%;
+}
+
+.gardeningP3{
+	position: absolute;
+	margin-left: 14%;
+	margin-top: 65%;
+}
+
+.gardeningImage4{
+	position: absolute;
+	margin-top: 45%;
+	margin-left: 65%;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 25%;
+	height: 1050%;
+}
+
+.gardeningP4{
+	position: absolute;
+	margin-left:64%;
+	margin-top: 65%;
+}
+
+
+
+
