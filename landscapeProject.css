@@ -144,5 +144,75 @@ background-color:#e0e0e7;
 }
 
 
+/*lawnMowing Page*/
+.lawnImage1{
+	position: absolute;
+	margin-top: 5%;
+	margin-left: 10%;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 30%;
+}
+
+.lawnP1{
+	position: absolute;
+	margin-left: 12%;
+	margin-top: 23%;
+}
+
+.lawnImage2{
+	position: absolute;
+	margin-top: 5%;
+	margin-left: 60%;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 30%;
+}
+
+.lawnP2{
+	position: absolute;
+	margin-left: 62%;
+	margin-top: 23%;
+}
+
+
+
+.lawnImage3{
+	position: absolute;
+	margin-top: 45%;
+	margin-left: 15%;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 20%;
+	height: 1250%;
+}
+
+.lawnP3{
+	position: absolute;
+	margin-left: 14%;
+	margin-top: 65%;
+}
+
+.lawnImage4{
+	position: absolute;
+	margin-top: 45%;
+	margin-left: 63%;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 25%;
+	height: 1050%;
+}
+
+.lawnP4{
+	position: absolute;
+	margin-left:64%;
+	margin-top: 62%;
+}
+
+
 
 
