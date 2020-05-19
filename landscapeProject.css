@@ -259,3 +259,24 @@ ul{
 
 
 
+/*the code below is for the contact page*/
+
+#helppic{
+}
+
+#phonepic{
+}
+
+#emailpic{
+}
+
+#peoplepic{
+}
+
+.contacts{
+  margin-left:250pt;
+  margin-top:-120pt;
+}
+.seperator{
+  height:100pt;
+}
