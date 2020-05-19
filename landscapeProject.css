@@ -2,14 +2,6 @@
 head { color:#E0E0E7;
 }
 
-#hometop{ width:100%;
-}
-
-#homebanner{
-border: 5px #e0e0e7;
-Width:100%; height:75pt;
-background-color:#e0e0e7;
-}
 
 .homeheaderlink{
   float:left;
@@ -28,6 +20,57 @@ background-color:#e0e0e7;
    Margin-left:34%;
 }
 
+#homep1{
+  width:40%;
+  float:left;
+  margin-left:15%;
+}
+
+#pic1{
+  width:80%;
+  border-radius:50%;
+}
+
+#homep2{
+  width:40%;
+  margin-left:55%;
+  float:left;
+}
+
+#pic2{
+  width:80%;
+  border-radius:50%;
+}
+
+#homep3{
+  width:40%;
+  margin-left:15%;
+  float:left;
+}
+
+#pic3{
+  width:80%;
+  border-radius:50%;
+}
+
+
+#homep4{
+  width:40%;
+  float:left;
+  margin-left:55%;
+}
+
+#pic4{
+  width:80%;
+  border-radius:50%;
+}
+
+p{
+  font-size:20pt;
+}
+ul{
+  font-size:20pt;
+}
 
 
 /*// For Gardening page */
