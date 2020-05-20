@@ -65,13 +65,9 @@ head { color:#E0E0E7;
   border-radius:50%;
 }
 
-p{
+.d{
   font-size:20pt;
 }
-ul{
-  font-size:20pt;
-}
-
 
 /*// For Gardening page */
 .TitleBackground{
